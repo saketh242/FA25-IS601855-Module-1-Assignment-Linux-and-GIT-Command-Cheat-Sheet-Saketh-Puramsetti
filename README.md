@@ -13,4 +13,6 @@
 - `git branch`: To create a new branch
 - `git checkout`: To switch branches
 - `git merge`: To merge another branch to current branch
-- `rm -rf /`: TO destroy your OS (dont run!!!)
+- `tail`: Print the first 10 lines of a file
+- `head`: Print the last 10 lines of a file
+- `rm`: To delete a file
