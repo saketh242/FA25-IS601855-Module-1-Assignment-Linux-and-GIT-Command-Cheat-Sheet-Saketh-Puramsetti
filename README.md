@@ -5,3 +5,5 @@
 - `cd`: To change directory
 - `mv`: Move a file from source to destination
 - `vi`: Open a file in vi editor
+- `chmod`: Change file permissions
+- `grep`: Search for a pattern/keyword in a file
