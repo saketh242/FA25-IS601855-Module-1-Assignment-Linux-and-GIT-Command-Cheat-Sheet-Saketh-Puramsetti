@@ -4,3 +4,4 @@
 - `cat`: Print the contents of a file
 - `cd`: To change directory
 - `mv`: Move a file from source to destination
+- `vi`: Open a file in vi editor
