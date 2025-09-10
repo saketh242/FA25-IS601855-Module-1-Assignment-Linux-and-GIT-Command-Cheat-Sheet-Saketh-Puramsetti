@@ -9,3 +9,5 @@
 - `grep`: Search for a pattern/keyword in a file
 - `git clone`: To clone a git repository
 - `git add`: To stage files for commit
+- `git commit -m`: To commit staged changes with a message
+ 
