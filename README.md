@@ -10,4 +10,4 @@
 - `git clone`: To clone a git repository
 - `git add`: To stage files for commit
 - `git commit -m`: To commit staged changes with a message
- 
+- `git branch`: To create a new branch
