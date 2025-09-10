@@ -7,3 +7,4 @@
 - `vi`: Open a file in vi editor
 - `chmod`: Change file permissions
 - `grep`: Search for a pattern/keyword in a file
+- `git clone`: To clone a git repository
