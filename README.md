@@ -12,3 +12,4 @@
 - `git commit -m`: To commit staged changes with a message
 - `git branch`: To create a new branch
 - `git checkout`: To switch branches
+- `git merge`: To merge another branch to current branch
